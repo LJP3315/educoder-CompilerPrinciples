@@ -1,8 +1,6 @@
-
 #include <bits/stdc++.h>
 using namespace std;
 
-// 不要修改这个标准输入函数
 void read_prog(string& prog) {
     char c;
     while (scanf("%c", &c) != EOF) {
@@ -262,3 +260,6 @@ int main() {
     Analysis();
     return 0;
 }
+
+// made in Lyon
+// Trying to being better!

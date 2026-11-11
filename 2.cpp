@@ -791,3 +791,6 @@ void init_stack(void)
     TEST_STACK[amount] = '#';
     return;
 }
+
+// made in Lyon
+// Trying to being better!

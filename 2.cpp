@@ -793,4 +793,4 @@ void init_stack(void)
 }
 
 // made in Lyon
-// Trying to being better!
+// Trying to do better!

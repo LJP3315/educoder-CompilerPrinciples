@@ -262,4 +262,4 @@ int main() {
 }
 
 // made in Lyon
-// Trying to being better!
+// Trying to do better!
